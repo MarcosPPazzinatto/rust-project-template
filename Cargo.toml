@@ -1,0 +1,12 @@
+[package]
+name = "rust-project-template"
+version = "0.1.0"
+edition = "2021"
+authors = ["Marcos Paulo Pazzinatto <marcospaulopazzinatto@gmail.com>"]
+description = "A simple Rust project template"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/MarcosPPazzinatto/rust-project-template"
+
+[dependencies]
+
